@@ -1,0 +1,26 @@
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 25px;
+}
+
+.note{
+    font-size: 15px;
+}
+
+body{
+    background-image: url("Music.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+button{
+    width: 130px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+
+canvas{
+    border: 5px solid cyan;
+    border-radius: 20px;
+}
